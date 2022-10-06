@@ -1,5 +1,5 @@
-baseurl = "https://doks-child-theme.netlify.app/"
-canonifyURLs = false
+baseurl = "niponmoe.github.io"
+canonifyURLs = true
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true
